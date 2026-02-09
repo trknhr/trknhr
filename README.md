@@ -22,7 +22,7 @@
 
 ## Now
 
-- Developing both **React UI** (chat experiences) and **Go/TypeScript APIs** (tools, data access)
+- Developing both **React UI** (chat experiences) and **Go/TypeScript APIs**
 - Designing **LLM-integrated architectures** 
 - Developing and maintaining **MCP servers** to connect products and docs to AI agents
 
