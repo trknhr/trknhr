@@ -37,8 +37,3 @@ I write about AI engineering and developer workflows:
 
 - [DEV](https://dev.to/trknhr)
 - [Zenn](https://zenn.dev/trknhr)
-
-## Website / CV
-
-- [trknhr.dev](https://trknhr.dev/)
-- [CV](https://trknhr.dev/cv/)
