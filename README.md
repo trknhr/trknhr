@@ -1,40 +1,35 @@
-# Welcome to my page
+# Teruo Kunihiro
 
-**Full-stack Software Engineer** building **AI integrations for enterprise SaaS**  
-**Go / TypeScript / React / Next.js** · Fukuoka, Japan (JST)
+**Full-stack Software Engineer** based in Fukuoka, Japan  
+SaaS, internal tools, APIs, admin screens, and existing web applications. Recently working around AI integration systems and AI agents.
 
-[LinkedIn](https://www.linkedin.com/in/teruo-kunihiro-28520aa9) · [DEV](https://dev.to/trknhr) · [Zenn](https://zenn.dev/trknhr)
+[Website](https://trknhr.dev/) · [CV](https://trknhr.dev/cv/) · [LinkedIn](https://www.linkedin.com/in/teruo-kunihiro-28520aa9) · [DEV](https://dev.to/trknhr) · [Zenn](https://zenn.dev/trknhr)
 
-## TL;DR
+## About
 
-- 15+ years building web products, with recent focus on **AI-powered systems** for **B2B / enterprise workflows**
-- Shipping end-to-end features across **React/Next.js**, **Go/TypeScript**, and **LLM integrations**
-- I care about **shipping**, **developer experience**, and **reliable systems**
+- 14 years of full-stack web application development
+- Experience across frontend, backend, APIs, internal tools, and SaaS products
+- Recent work includes AI assistant features, AI integration systems, MCP servers, and agent workflows
+- I care about shipping maintainable systems with practical developer experience
 
 ## What I work on
 
 | Area | Focus |
 |---|---|
-| Frontend | React / Next.js + TypeScript (UI architecture, chat UX, performance, DX) |
-| Backend | Go + TypeScript (API design, integrations, DB modeling, background jobs) |
-| AI integration | AWS Bedrock, Claude API, MCP tool-calling, evaluations, guardrails, workflow integration |
+| Frontend | TypeScript, React, UI architecture, chat UX, performance, developer experience |
+| Backend | Golang, TypeScript, API design, integrations, data modeling, background jobs |
+| AI systems | AWS Bedrock, Claude API, MCP, tool calling, workflow integration |
 | Delivery | CI/CD, observability, maintainable systems |
-
-## Current work
-
-- Building **AI-powered chat and workflow features** for a **B2B collaboration product used by enterprise teams**
-- Shipping both **React/Next.js UI** and **Go/TypeScript APIs** end to end
-- Improving **documentation and retrieval workflows** that make product knowledge usable by AI agents
 
 ## Featured projects
 
 | Project | What it is | Tech / Notes |
 |---|---|---|
-| **[backlog-mcp-server](https://github.com/nulab/backlog-mcp-server)** | Open-source MCP server for interacting with the Backlog API from AI agents | TypeScript · enterprise workflow integration |
-| **[any-docs-mcp](https://github.com/trknhr/any-docs-mcp)** | Local documentation sync + hybrid search (BM25 + vector) with URL citations; MCP integration | TypeScript · Node.js |
-| **[ai-utils (aiu)](https://github.com/trknhr/ai-utils)** | Prompt template runner for locally installed AI CLIs (Claude/Gemini/Codex/...) | Go · local-first workflow |
-| **[ai-docs](https://github.com/trknhr/ai-docs)** | Keeps AI-generated memory files clean and versioned with Git worktrees | Go · DX / workflow automation |
-| **[ghosttype](https://github.com/trknhr/ghosttype)** | Local AI-powered CLI autocomplete tool | Rust · fast local UX |
+| **[docs-ssh](https://github.com/trknhr/docs-ssh)** | Tool for giving AI agents access to local documents over SSH | TypeScript · AI agents |
+| **[slack-ai-assistant](https://github.com/trknhr/slack-ai-assistant)** | AWS-based sample architecture for an AI assistant running on Slack | TypeScript · AWS |
+| **[backlog-mcp-server](https://github.com/nulab/backlog-mcp-server)** | MCP server for integrating Backlog with LLMs and AI assistants | TypeScript · previous OSS work |
+| **[ai-utils (aiu)](https://github.com/trknhr/ai-utils)** | Prompt template runner for locally installed AI CLIs | Go · local-first workflow |
+| **[ai-docs](https://github.com/trknhr/ai-docs)** | Keeps AI-generated memory files clean and versioned with Git worktrees | Go · developer workflow |
 
 ## Writing
 
