@@ -26,7 +26,7 @@ SaaS, internal tools, APIs, admin screens, and existing web applications. Recent
 | Project | What it is | Tech / Notes |
 |---|---|---|
 | **[docs-ssh](https://github.com/trknhr/docs-ssh)** | Tool for giving AI agents access to local documents over SSH | TypeScript · AI agents |
-| **[slack-ai-assistant](https://github.com/trknhr/slack-ai-assistant)** | AWS-based sample architecture for an AI assistant running on Slack | TypeScript · AWS |
+| **[serverless-agent](https://github.com/trknhr/serverless-agent)** | AWS-based sample architecture for an AI assistant running on Slack | TypeScript · AWS |
 | **[backlog-mcp-server](https://github.com/nulab/backlog-mcp-server)** | MCP server for integrating Backlog with LLMs and AI assistants | TypeScript · previous OSS work |
 | **[ai-utils (aiu)](https://github.com/trknhr/ai-utils)** | Prompt template runner for locally installed AI CLIs | Go · local-first workflow |
 | **[ai-docs](https://github.com/trknhr/ai-docs)** | Keeps AI-generated memory files clean and versioned with Git worktrees | Go · developer workflow |
